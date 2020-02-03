@@ -1,0 +1,9 @@
+
+;squid:S2629o"$Invoke method(s) only conditionally.(ŒÈï
+xsquid:S2629\"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ıŠ„ßüÿÿÿÿ
+^squid:S2142Ÿ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Nsquid:S1135N"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+?squid:S1148w"#Use a logger to log this exception.(¸Õª¿şÿÿÿÿ
+]squid:S3457\"AFormat specifiers should be used instead of string concatenation.(ıŠ„ßüÿÿÿÿ
+bsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ÂôÂ·
+esquid:S1192\"IDefine a constant instead of duplicating this literal "metadata" 4 times.(ıŠ„ßüÿÿÿÿ

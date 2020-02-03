@@ -1,0 +1,6 @@
+pt\sapo\labs\TwitterLookupService.class
+pt\sapo\labs\ShutdownInterceptor.class
+pt\sapo\labs\jobs\TwitterLookupJob.class
+pt\sapo\labs\TwitterLookupApplication.class
+pt\sapo\labs\Main.class
+pt\sapo\labs\IApp.class

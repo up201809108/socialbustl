@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hbc-core-2.2.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../dependencias socialbus/hbc-twitter/hbc-core/target/hbc-core-2.2.1.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

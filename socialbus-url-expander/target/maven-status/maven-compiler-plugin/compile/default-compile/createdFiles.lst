@@ -1,0 +1,8 @@
+pt\sapo\labs\services\MongoAdapter.class
+pt\sapo\labs\jobs\UrlExpanderJob.class
+pt\sapo\labs\ShutdownInterceptor.class
+pt\sapo\labs\services\UrlExpanderService.class
+pt\sapo\labs\App.class
+pt\sapo\labs\Main.class
+pt\sapo\labs\IApp.class
+pt\sapo\labs\Application.class

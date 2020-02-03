@@ -1,0 +1,15 @@
+
+Ssquid:S2629B"7Use the built-in formatting to construct this argument.(¨µôœýÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ýô­ùÿÿÿÿ
+Wsquid:S3457E"AFormat specifiers should be used instead of string concatenation.(¸ïŠ
+?squid:S1148m"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Xsquid:S3457F"AFormat specifiers should be used instead of string concatenation.(°£¿Ù
+Nsquid:S2629F"7Use the built-in formatting to construct this argument.(°£¿Ù
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(×³Éšýÿÿÿÿ
+]squid:S2142l"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Ssquid:S2629C"7Use the built-in formatting to construct this argument.(ñÓ¦Ïúÿÿÿÿ
+esquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+]squid:S3457C"AFormat specifiers should be used instead of string concatenation.(ñÓ¦Ïúÿÿÿÿ
+Msquid:S2629E"7Use the built-in formatting to construct this argument.(¸ïŠ
+]squid:S3457B"AFormat specifiers should be used instead of string concatenation.(¨µôœýÿÿÿÿ

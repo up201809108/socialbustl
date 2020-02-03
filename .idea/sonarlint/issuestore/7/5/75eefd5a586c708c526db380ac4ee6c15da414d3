@@ -1,0 +1,18 @@
+
+©%squid:RedundantThrowsDeclarationCheckL"sRemove the declaration of thrown exception 'twitter4j.TwitterException', as it cannot be thrown from method's body.(ÔúÕÇıÿÿÿÿ
+Nsquid:S2629B"7Use the built-in formatting to construct this argument.(Ú½ªÖ
+Nsquid:S2629C"7Use the built-in formatting to construct this argument.(¤—Ã‹
+rsquid:S3008"VRename this field "USER_STREAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÚê¾ıÿÿÿÿ
+usquid:S3008"YRename this field "KEYWORD_STREAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïº ÿÿÿÿÿ
+Msquid:S1444"1Make this "public static USER_STREAM" field final(ÌÚê¾ıÿÿÿÿ
+Psquid:S1444"4Make this "public static KEYWORD_STREAM" field final(ïº ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûĞ“ƒ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀìÇÿÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake USER_STREAM a static final constant or non-public and provide accessors if needed.(ÌÚê¾ıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"ZMake KEYWORD_STREAM a static final constant or non-public and provide accessors if needed.(ïº ÿÿÿÿÿ
+Osquid:S1135…"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+]squid:S2142j"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
+Xsquid:S3457B"AFormat specifiers should be used instead of string concatenation.(Ú½ªÖ
+Xsquid:S3457C"AFormat specifiers should be used instead of string concatenation.(¤—Ã‹
+Xsquid:S3457T"AFormat specifiers should be used instead of string concatenation.(È´Ì²
+]squid:S3457g"AFormat specifiers should be used instead of string concatenation.(˜ïöáúÿÿÿÿ

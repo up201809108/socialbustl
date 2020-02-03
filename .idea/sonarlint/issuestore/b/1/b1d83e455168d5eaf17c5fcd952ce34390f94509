@@ -1,0 +1,8 @@
+
+rsquid:S1450"[Remove the "tokenManager" field and declare it as a local variable in the relevant methods.(œ˜Ä
+Isquid:S1135:"2Complete the task associated to this TODO comment.(§°·Ü
+bsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(§°·Ü
+]squid:S3457%"AFormat specifiers should be used instead of string concatenation.(–ÊÁÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²İô­ùÿÿÿÿ
+Ssquid:S2629%"7Use the built-in formatting to construct this argument.(–ÊÁÿÿÿÿÿ
+\squid:UselessImportCheck"8Remove this unused import 'pt.sapo.labs.utils.AppUtils'.(¤×È

@@ -1,0 +1,26 @@
+
+Qsquid:S2209r"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
+bsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(‹îÌÃ
+Lsquid:S2209w"5Change this instance-reference to a static reference.(ÉËâÁ
+]squid:S1192w"FDefine a constant instead of duplicating this literal "oauth" 4 times.(ÉËâÁ
+csquid:S1192|"GDefine a constant instead of duplicating this literal "filter" 3 times.(¬œôÄûÿÿÿÿ
+Lsquid:S2209w"5Change this instance-reference to a static reference.(ÉËâÁ
+csquid:S1192r"GDefine a constant instead of duplicating this literal "config" 4 times.(³‚¢Šùÿÿÿÿ
+]squid:S34579"AFormat specifiers should be used instead of string concatenation.(ÂßÉÙþÿÿÿÿ
+bsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(íâ”;
+¤%squid:RedundantThrowsDeclarationCheckj"sRemove the declaration of thrown exception 'twitter4j.TwitterException', as it cannot be thrown from method's body.(®•¬Ÿ
+]squid:S3457o"AFormat specifiers should be used instead of string concatenation.(ý‰´æøÿÿÿÿ
+U
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(›€Òóþÿÿÿÿ
+Qsquid:S2209|"5Change this instance-reference to a static reference.(¬œôÄûÿÿÿÿ
+]squid:S3457X"AFormat specifiers should be used instead of string concatenation.(¹à‘¨üÿÿÿÿ
+Xsquid:S34578"AFormat specifiers should be used instead of string concatenation.(Ü©ûû
+Qsquid:S2209|"5Change this instance-reference to a static reference.(¬œôÄûÿÿÿÿ
+Qsquid:S2209r"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
+Lsquid:S2209w"5Change this instance-reference to a static reference.(ÉËâÁ
+Qsquid:S2209|"5Change this instance-reference to a static reference.(¬œôÄûÿÿÿÿ
+Qsquid:S2209r"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
+Ssquid:S2629X"7Use the built-in formatting to construct this argument.(¹à‘¨üÿÿÿÿ
+Ssquid:S26299"7Use the built-in formatting to construct this argument.(ÂßÉÙþÿÿÿÿ
+Asquid:S2629’"$Invoke method(s) only conditionally.(¨Ÿ¸åýÿÿÿÿ
+Nsquid:S26298"7Use the built-in formatting to construct this argument.(Ü©ûû

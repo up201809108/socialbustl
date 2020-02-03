@@ -1,0 +1,14 @@
+
+Qsquid:S2209]"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íâ”;
+Xsquid:S34570"AFormat specifiers should be used instead of string concatenation.(Ü©ûû
+csquid:S1192]"GDefine a constant instead of duplicating this literal "config" 4 times.(³‚¢Šùÿÿÿÿ
+U
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(›€Òóşÿÿÿÿ
+Qsquid:S2209]"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
+]squid:S3457Z"AFormat specifiers should be used instead of string concatenation.(ı‰´æøÿÿÿÿ
+]squid:S3457B"AFormat specifiers should be used instead of string concatenation.(¹à‘¨üÿÿÿÿ
+Nsquid:S26290"7Use the built-in formatting to construct this argument.(Ü©ûû
+@squid:S2629o"$Invoke method(s) only conditionally.(¨Ÿ¸åıÿÿÿÿ
+Qsquid:S2209]"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
+Ssquid:S2629B"7Use the built-in formatting to construct this argument.(¹à‘¨üÿÿÿÿ

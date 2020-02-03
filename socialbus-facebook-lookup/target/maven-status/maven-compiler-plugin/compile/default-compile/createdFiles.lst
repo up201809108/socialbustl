@@ -1,0 +1,8 @@
+pt\sapo\labs\jobs\FacebookPageLookupJob.class
+pt\sapo\labs\FacebookPageLookupService.class
+pt\sapo\labs\ShutdownInterceptor.class
+pt\sapo\labs\App.class
+pt\sapo\labs\Main.class
+pt\sapo\labs\FacebookPageLookupApplication.class
+pt\sapo\labs\IApp.class
+pt\sapo\labs\domain\FacebookPage.class

@@ -1,0 +1,13 @@
+pt\sapo\labs\services\LookForFacebookPageService.class
+pt\sapo\labs\adapters\MessageBrokerStatusAdapter.class
+pt\sapo\labs\adapters\FileMessageAdapter.class
+pt\sapo\labs\FacebookPageConsumer.class
+pt\sapo\labs\jobs\FacebookPageJob.class
+pt\sapo\labs\ShutdownInterceptor.class
+pt\sapo\labs\FacebookConsumerApplication.class
+pt\sapo\labs\jobs\FacebookSearchJob.class
+pt\sapo\labs\FacebookSearchConsumer.class
+pt\sapo\labs\App.class
+pt\sapo\labs\Main.class
+pt\sapo\labs\IApp.class
+pt\sapo\labs\domain\FacebookPage.class

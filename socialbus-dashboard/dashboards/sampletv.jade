@@ -1,0 +1,38 @@
+extends layout
+
+block title
+  | 1080p dashboard
+
+block content
+  div.gridster
+    ul
+      li(data-row='1', data-col='1', data-sizex='1', data-sizey='1')
+        div(data-view='Clock')
+        i.fa.fa-clock-o.icon-background
+      li(data-row='1', data-col='1', data-sizex='3', data-sizey='1')
+        div(data-id='welcome', data-view='Text', data-title='SOCIALBUS', data-text='realtime dashboard for data collection', data-moreinfo='Protip: You can drag the widgets around!')
+      li(data-row='1', data-col='1', data-sizex='1', data-sizey='1')
+        div(data-id='topics', data-view='List', data-unordered='true', data-title='Topics', data-moreinfo='# monitored topics')
+      li(data-row='1', data-col='1', data-sizex='1', data-sizey='1')
+        div(data-id='topics', data-view='List', data-unordered='true', data-title='Topics', data-moreinfo='# monitored topics')
+      li(data-row='1', data-col='1', data-sizex='1', data-sizey='1')
+        div(data-id='topics', data-view='List', data-unordered='true', data-title='Topics', data-moreinfo='# monitored topics')
+      li(data-row='1', data-col='1', data-sizex='1', data-sizey='1')
+        div(data-id='valuation', data-view='Number', data-title='Total collected', data-moreinfo='In millions', data-prefix='$')
+        i.fa.fa-heart.icon-background
+      li(data-row='1', data-col='1', data-sizex='2', data-sizey='1')
+        div(data-id='convergence', data-view='Graph', data-title='processing right now', style='background-color:#47bbb3;', data-moreinfo='poop')
+      li(data-row='1', data-col='1', data-sizex='2', data-sizey='1')
+        div(data-id='twitter_mentions', data-view='Comments', style='background-color:#ff9618;', data-moreinfo='Tweets tagged with #todayilearned')
+        i.fa.fa-twitter.icon-background
+    center
+      div(style='font-size: 12px') Try this: curl -d '{ "auth_token": "YOUR_AUTH_TOKEN", "text": "Hey, Look what I can do!" }' -H "Content-Type: application/json" http://#{request.header('host')}/widgets/welcome
+
+block scripts
+  script.
+    $(function() {
+      // These settings override the defaults set in application.coffee. You can do this on a per dashboard basis.
+      Dashing.gridsterLayout('[{"col":1,"row":1,"size_x":1,"size_y":1},{"col":2,"row":1,"size_x":3,"size_y":1},{"col":4,"row":2,"size_x":1,"size_y":1},{"col":1,"row":3,"size_x":1,"size_y":1},{"col":4,"row":3,"size_x":1,"size_y":1},{"col":3,"row":2,"size_x":1,"size_y":1},{"col":1,"row":2,"size_x":2,"size_y":1},{"col":2,"row":3,"size_x":2,"size_y":1}]')
+      Dashing.widget_base_dimensions = [370, 340]
+      Dashing.numColumns = 5
+    });

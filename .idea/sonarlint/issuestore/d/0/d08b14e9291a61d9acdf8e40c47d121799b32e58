@@ -1,0 +1,34 @@
+
+gsquid:S1192_"KDefine a constant instead of duplicating this literal "created_at" 4 times.(ôÁàùøÿÿÿÿ
+bsquid:S2184z"FCast one of the operands of this multiplication operation to a "long".(éºšîÿÿÿÿÿ
+osquid:UselessImportCheck"KRemove this unused import 'ch.qos.logback.classic.joran.JoranConfigurator'.(é¸©
+xsquid:S2629S"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(€ÊŠÕüÿÿÿÿ
+^squid:UselessImportCheck"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+nsquid:S00117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éºšîÿÿÿÿÿ
+bsquid:UselessImportCheck"9Remove this unused import 'com.mongodb.MapReduceCommand'.(Ù³ú«ûÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+_squid:UselessImportCheck%";Remove this unused import 'com.google.common.io.Resources'.(ƒŸÍÊ
+]squid:S3457V"AFormat specifiers should be used instead of string concatenation.(àìµ²ıÿÿÿÿ
+Msquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å
+]squid:S3457S"AFormat specifiers should be used instead of string concatenation.(€ÊŠÕüÿÿÿÿ
+osquid:S3973O"XUse curly braces or indentation to denote the code conditionally executed by this "for".(ÍæùÏ
+\squid:S1192Q"FDefine a constant instead of duplicating this literal "topic" 3 times.(ó×°N
+Ssquid:UselessImportCheck"/Remove this unused import 'java.nio.file.Path'.(×²êÂ
+asquid:UselessImportCheck"8Remove this unused import 'com.mongodb.MapReduceOutput'.(ùñÜ•ÿÿÿÿÿ
+xsquid:S2629V"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(àìµ²ıÿÿÿÿ
+nsquid:S1192h"WDefine a constant instead of duplicating this literal "metadata.expanded_urls" 3 times.(¾ÈÀº
+`squid:UselessImportCheck"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´
+hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+rsquid:UselessImportCheck"IRemove this unused import 'ch.qos.logback.core.joran.spi.JoranException'.(¦Ê§úüÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+dsquid:UselessImportCheck"";Remove this unused import 'org.apache.commons.io.Charsets'.(ŒœÎÿÿÿÿÿÿ
+Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'com.mongodb.Mongo'.(…­¶£ÿÿÿÿÿ
+esquid:UselessImportCheck"ARemove this unused import 'ch.qos.logback.classic.LoggerContext'.(Ğáóò
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+gsquid:UselessImportCheck"CRemove this unused import 'ch.qos.logback.core.util.StatusPrinter'.(›­ıÀ
+3squid:S3626™"Remove this redundant jump.(ÉŠ©ƒ
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(¸«¼‹
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º

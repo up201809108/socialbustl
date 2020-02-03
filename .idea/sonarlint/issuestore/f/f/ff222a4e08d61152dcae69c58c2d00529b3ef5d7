@@ -1,0 +1,35 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¿éÿÿÿÿÿ
+gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(íÖí´ûÿÿÿÿ
+Hsquid:S1153Ê"1Directly append the argument of String.valueOf().(‹…„Q
+Tsquid:S2629Õ"7Use the built-in formatting to construct this argument.(Íø¬Ìøÿÿÿÿ
+Asquid:S2629®"$Invoke method(s) only conditionally.(öú°©ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô´Â¦
+wsquid:S1149¥"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Asquid:S2629˜"$Invoke method(s) only conditionally.(öú°©ùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅÊõ™ÿÿÿÿÿ
+wsquid:S1149Å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+gsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(€¸˜Ìûÿÿÿÿ
+wsquid:S1149ˆ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(¦ŽÈøÿÿÿÿ
+usquid:S1488K"^Immediately return this expression instead of assigning it to the temporary variable "status".(ÝÆ†ý
+^squid:S3457Õ"AFormat specifiers should be used instead of string concatenation.(Íø¬Ìøÿÿÿÿ
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(¤éÌ”ÿÿÿÿÿ
+Tsquid:S2629 "7Use the built-in formatting to construct this argument.(ý”‚úúÿÿÿÿ
+Asquid:S2629"$Invoke method(s) only conditionally.( ÍŸ¤úÿÿÿÿ
+Asquid:S2629½"$Invoke method(s) only conditionally.( ÍŸ¤úÿÿÿÿ
+usquid:S1171,"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+U
+squid:S106š"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+wsquid:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Asquid:S2629Ì"$Invoke method(s) only conditionally.( ÍŸ¤úÿÿÿÿ
+wsquid:S1488["`Immediately return this expression instead of assigning it to the temporary variable "jsonText".(ƒùÌ
+U
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+wsquid:S1149¶"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Psquid:S1153»"1Directly append the argument of String.valueOf().(‡›âë8²²ÊÞ-
+^squid:S3457 "AFormat specifiers should be used instead of string concatenation.(ý”‚úúÿÿÿÿ
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+U
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ

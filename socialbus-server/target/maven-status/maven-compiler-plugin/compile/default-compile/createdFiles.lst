@@ -1,0 +1,13 @@
+pt\sapo\labs\twitterecho\TwitterechoServerApplication.class
+pt\sapo\labs\twitterecho\broker\SysInfoHttpService.class
+pt\sapo\labs\twitterecho\broker\WebConsoleRoute.class
+pt\sapo\labs\twitterecho\broker\SocialechoServerSessionStats.class
+pt\sapo\labs\twitterecho\IApp.class
+pt\sapo\labs\twitterecho\broker\ElasticSearchRoute.class
+pt\sapo\labs\twitterecho\Main.class
+pt\sapo\labs\twitterecho\ShutdownInterceptor.class
+pt\sapo\labs\twitterecho\broker\SocialechoWebserver.class
+pt\sapo\labs\twitterecho\metadata\StatusMetadataProcessorClient.class
+pt\sapo\labs\twitterecho\broker\MessageBrokerConsumer.class
+pt\sapo\labs\twitterecho\metadata\StatusMetadataProcessor.class
+pt\sapo\labs\twitterecho\ApplicationManager.class

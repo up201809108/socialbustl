@@ -1,0 +1,11 @@
+pt\sapo\labs\services\TwitterTrendingUsersService.class
+pt\sapo\labs\services\TwitterUserInteractionsService.class
+pt\sapo\labs\Application.class
+pt\sapo\labs\services\MongoAdapter.class
+pt\sapo\labs\jobs\TwitterUserInteractionsJob.class
+pt\sapo\labs\services\TwitterTrendingTopicsService.class
+pt\sapo\labs\ShutdownInterceptor.class
+pt\sapo\labs\services\TwitterUserInteractionsGraphService.class
+pt\sapo\labs\Main.class
+pt\sapo\labs\IApp.class
+pt\sapo\labs\jobs\TwitterTrendingJob.class
