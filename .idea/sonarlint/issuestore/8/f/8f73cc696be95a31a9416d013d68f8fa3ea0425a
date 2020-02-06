@@ -1,13 +1,0 @@
-
-gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ë¡¹Žþÿÿÿÿ
-gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(øÀ›‹ùÿÿÿÿ
-bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(Ì·©Ä
-bsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(¤“Òœ
-xsquid:S2629\"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(øËË‚øÿÿÿÿ
-?squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-gsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(Íó¢µøÿÿÿÿ
-squid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«Áûýÿÿÿÿ
-gsquid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(¸¤ÜÕüÿÿÿÿ
-psquid:S1450""YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ
-gsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ôï‡Õúÿÿÿÿ

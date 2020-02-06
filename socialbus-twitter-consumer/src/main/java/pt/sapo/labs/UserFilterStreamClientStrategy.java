@@ -112,7 +112,7 @@ public class UserFilterStreamClientStrategy implements StreamClientStrategy{
 //
                 this.applicationManager.getActiveTwitterStreamClients().add(t4jClient);
                 // Establish a connection
-              //  t4jClient.setJSONStoreEnabled(true);
+                t4jClient.setJSONStoreEnabled(true);
                 t4jClient.connect();
                 for (int threads = 0; threads < numProcessingThreads; threads++) {
                     // This must be called once per processing thread

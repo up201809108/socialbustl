@@ -1,13 +1,0 @@
-
-]squid:S34572"AFormat specifiers should be used instead of string concatenation.(íÆ¶÷ùÿÿÿÿ
-Qsquid:S2209y"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
-U
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(›€Òóþÿÿÿÿ
-]squid:S11928"GDefine a constant instead of duplicating this literal "config" 5 times.(±Òì
-bsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(íâ”;
-Ssquid:S2629C"7Use the built-in formatting to construct this argument.(¹à‘¨üÿÿÿÿ
-]squid:S3457C"AFormat specifiers should be used instead of string concatenation.(¹à‘¨üÿÿÿÿ
-]squid:S3457v"AFormat specifiers should be used instead of string concatenation.(ý‰´æøÿÿÿÿ
-Ssquid:S26292"7Use the built-in formatting to construct this argument.(íÆ¶÷ùÿÿÿÿ
-Qsquid:S2209y"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ
-Qsquid:S2209y"5Change this instance-reference to a static reference.(³‚¢Šùÿÿÿÿ

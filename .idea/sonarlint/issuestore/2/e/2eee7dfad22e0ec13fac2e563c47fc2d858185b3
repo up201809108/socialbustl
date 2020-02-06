@@ -1,7 +1,0 @@
-
-Xsquid:S3457/"AFormat specifiers should be used instead of string concatenation.(¬ªÉÑ
-Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-gsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(†³‘Äùÿÿÿÿ
-nsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(¿²ËÎüÿÿÿÿ8Üé€øû-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ýô­ùÿÿÿÿ
-Nsquid:S2629/"7Use the built-in formatting to construct this argument.(¬ªÉÑ

@@ -1,39 +1,0 @@
-
-^squid:S2184¢"FCast one of the operands of this multiplication operation to a "long".(×²Àƒ
-Qsquid:S2864Š"4Iterate over the "entrySet" instead of the "keySet".(¡àï€şÿÿÿÿ
-Nsquid:S2629i"7Use the built-in formatting to construct this argument.(“ÄŠ
-ysquid:S2629«"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(“º²ıÿÿÿÿ
-Tsquid:S2629à"7Use the built-in formatting to construct this argument.(Ã‰¢äÿÿÿÿÿ
-Psquid:S3010,"9Remove this assignment of "considerOnlyVerifiedProfiles".(í“ÓĞ
-^squid:S3010-"BRemove this assignment of "considerProfilesWithMinFollowersCount".(ëê½·üÿÿÿÿ
-Gsquid:S1066Â"/Merge this if statement with the enclosing one.(ı‡ßÃ
-squid:S4165Ã"iRemove this useless assignment; "mostPopular" already holds the assigned value along all execution paths.(ØŒ¸Œ
-squid:S4165É"iRemove this useless assignment; "mostPopular" already holds the assigned value along all execution paths.(ØŒ¸Œ
-bsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(öø†¬
-bsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ƒÌñÄ
-gsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
-gsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(ğ¬İŸùÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ö®˜ï
-hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(éÈ¨Ùùÿÿÿÿ
-csquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(õØ‰
-{squid:S1488ä"cImmediately return this expression instead of assigning it to the temporary variable "searchTerms".(éíæ˜
-Msquid:S26964"6Make the enclosing method "static" or remove this set.(í“ÓĞ
-Rsquid:S26965"6Make the enclosing method "static" or remove this set.(ëê½·üÿÿÿÿ
-Isquid:S1135Q"2Complete the task associated to this TODO comment.(†œÁ¦
-osquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ş Œ¿ùÿÿÿÿ
-^squid:S2142£"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
-osquid:UselessImportCheck"KRemove this unused import 'ch.qos.logback.classic.joran.JoranConfigurator'.(é¸©
-esquid:UselessImportCheck"ARemove this unused import 'ch.qos.logback.classic.LoggerContext'.(Ğáóò
-gsquid:UselessImportCheck"CRemove this unused import 'ch.qos.logback.core.util.StatusPrinter'.(›­ıÀ
-rsquid:UselessImportCheck"IRemove this unused import 'ch.qos.logback.core.joran.spi.JoranException'.(¦Ê§úüÿÿÿÿ
-Tsquid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º
-Xsquid:S3457]"AFormat specifiers should be used instead of string concatenation.(¸ê¨³
-Xsquid:S3457^"AFormat specifiers should be used instead of string concatenation.(¬¨Åá
-Wsquid:S3457_"AFormat specifiers should be used instead of string concatenation.(Ä‹óx
-Xsquid:S3457i"AFormat specifiers should be used instead of string concatenation.(“ÄŠ
-Xsquid:S3457˜"AFormat specifiers should be used instead of string concatenation.(„†ò
-^squid:S3457™"AFormat specifiers should be used instead of string concatenation.(––™ùÿÿÿÿ
-^squid:S3457š"AFormat specifiers should be used instead of string concatenation.(”Õüÿÿÿÿ
-Ysquid:S3457›"AFormat specifiers should be used instead of string concatenation.(­Ïš¶
-^squid:S3457«"AFormat specifiers should be used instead of string concatenation.(“º²ıÿÿÿÿ
-^squid:S3457à"AFormat specifiers should be used instead of string concatenation.(Ã‰¢äÿÿÿÿÿ

@@ -1,13 +1,0 @@
-
-Fsquid:S1068"*Remove this unused "logger" private field.(ÂÝ’œþÿÿÿÿ
-gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(Øª˜»üÿÿÿÿ
-bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.( Áˆõ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÉÈ‹õ
-T
-squid:S106&"9Replace this use of System.out or System.err by a logger.(Õ–¥Øùÿÿÿÿ
-T
-squid:S1065"9Replace this use of System.out or System.err by a logger.(„ò„¢ýÿÿÿÿ
-T
-squid:S106:"9Replace this use of System.out or System.err by a logger.(„ò„¢ýÿÿÿÿ
-Zsquid:S1155%">Use isEmpty() to check whether the collection is empty or not.(•µ§¿þÿÿÿÿ

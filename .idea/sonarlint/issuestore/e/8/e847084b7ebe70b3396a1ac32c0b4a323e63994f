@@ -1,15 +1,0 @@
-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ýô­ùÿÿÿÿ
-Nsquid:S1135["2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
-]squid:S3457U"AFormat specifiers should be used instead of string concatenation.(šÑÇÔþÿÿÿÿ
-rsquid:S2629_"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(å“ÃR
-xsquid:S2629U"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(šÑÇÔþÿÿÿÿ
-csquid:S1192&"LDefine a constant instead of duplicating this literal "filter.type" 3 times.(êÍº¥
-˜"squid:ClassVariableVisibilityCheck"jMake NUMBER_OF_USERS_PER_CONNECTION a static final constant or non-public and provide accessors if needed.(ÜüÐ¥
-Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-Wsquid:S3457_"AFormat specifiers should be used instead of string concatenation.(å“ÃR
-Gsquid:S1068w"0Remove this unused "tokenManager" private field.(œ˜Ä
-€squid:S3008"iRename this field "NUMBER_OF_USERS_PER_CONNECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜüÐ¥
-[squid:S1444"DMake this "public static NUMBER_OF_USERS_PER_CONNECTION" field final(ÜüÐ¥
-csquid:S20959"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(Ú²þÔúÿÿÿÿ
-bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ñ‘Ž–
